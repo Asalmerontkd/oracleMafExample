@@ -38,6 +38,6 @@
       <property
          name="fromOutcome">showGraph</property>
       <property
-         name="sdm:polyPoints">R50,188.0,136.10938,401.0,136.07812,L50</property>
+         name="sdm:polyPoints">R50,188.7449,136.10938,400.25513,136.07812,L50</property>
    </ControlFlowCase>
 </SDM>
