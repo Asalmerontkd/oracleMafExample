@@ -6,14 +6,12 @@ Oracle Mobile Application Framework (Oracle MAF) is a hybrid mobile framework th
 
 ### Tutorial
 
-```
 * [Link](http://docs.oracle.com/cd/E53569_01/tutorials/tut_jdev_maf_app/tut_jdev_maf_app.html) - Used to generate this tutorial
-```
+
 
 ### Prerequisites
 
 Oracle JDeveloper Studio Edition
 
-```
 * [Link](http://www.oracle.com/technetwork/developer-tools/maf/downloads/index.html) - Used to download JDeveloper
-```
+
