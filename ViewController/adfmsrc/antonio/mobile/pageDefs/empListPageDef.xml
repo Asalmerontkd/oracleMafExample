@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pageDefinition xmlns="http://xmlns.oracle.com/adfm/uimodel" version="12.2.1.22.33" id="empListPageDef"
+                Package="antonio.mobile.pageDefs">
+  <parameters/>
+  <executables>
+    <variableIterator id="variables"/>
+    <iterator Binds="root" RangeSize="25" DataControl="Emps" id="EmpsIterator"/>
+    <accessorIterator MasterBinding="EmpsIterator" Binds="emps" RangeSize="25" DataControl="Emps"
+                      BeanClass="antonio.mobile.Emp" id="empsIterator"/>
+  </executables>
+  <bindings>
+    <tree IterBinding="empsIterator" id="emps">
+      <nodeDefinition DefName="antonio.mobile.Emp" Name="emps0">
+        <AttrNames>
+          <Item Value="name"/>
+        </AttrNames>
+      </nodeDefinition>
+    </tree>
+  </bindings>
+</pageDefinition>

@@ -13,7 +13,9 @@
       <property
          name="description">&lt;html>&lt;p>&lt;b>empList&lt;/b> (Default Activity)&lt;/p>&lt;p>Activity Type:  View&lt;/p></property>
       <property
-         name="y">136.09375</property>
+         name="y">136.125</property>
+      <property
+         name="page">/empList.amx</property>
       <property
          name="exceptionHandler">false</property>
    </View>
@@ -38,6 +40,6 @@
       <property
          name="fromOutcome">showGraph</property>
       <property
-         name="sdm:polyPoints">R50,188.7449,136.10938,400.25513,136.07812,L50</property>
+         name="sdm:polyPoints">R50,188.0,136.14062,401.0,136.07812,L50</property>
    </ControlFlowCase>
 </SDM>
