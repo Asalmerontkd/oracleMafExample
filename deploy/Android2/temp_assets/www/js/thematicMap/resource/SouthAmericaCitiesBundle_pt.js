@@ -1,0 +1,1 @@
+l={PRY_ASUNCION:[null,"Assun\u00e7\u00e3o"],BRA_BRASILIA:[null,"Bras\u00edlia"],URY_MONTEVIDEO:[null,"Montevideu"],VEN_MARACAIBO:[null,"Maraca\u00edbo"],COL_BOGOTA:[null,"Bogot\u00e1"],BRA_SAO_PAULO:[null,"S\u00e3o Paulo"],COL_MEDELLIN:[null,"Medell\u00edn"],GUF_CAYENNE:[null,"Caiena"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["southAmerica","cities",l]);

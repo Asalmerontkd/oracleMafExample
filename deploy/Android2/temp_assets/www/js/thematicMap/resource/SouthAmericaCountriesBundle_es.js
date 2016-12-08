@@ -1,0 +1,1 @@
+l={FLK:["FLK","Islas Malvinas"],TTO:["TTO","Trinidad y Tobago"],GUF:["GUF","Guayana Francesa"],BRA:["BRA","Brasil"],SUR:["SUR","Surinam"],PER:["PER","Per\u00fa"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["southAmerica","countries",l]);

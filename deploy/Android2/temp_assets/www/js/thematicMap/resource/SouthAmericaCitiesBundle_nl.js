@@ -1,0 +1,1 @@
+l={PRY_ASUNCION:[null,"Asunci\u00f3n"],COL_BOGOTA:[null,"Bogot\u00e1"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["southAmerica","cities",l]);

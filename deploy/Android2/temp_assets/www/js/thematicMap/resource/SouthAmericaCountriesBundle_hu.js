@@ -1,0 +1,1 @@
+l={FLK:["FLK","Falkland-szigetek"],TTO:["TTO","Trinidad \u00e9s Tobago"],GUF:["GUF","Francia Guyana"],BOL:["BOL","Bol\u00edvia"],COL:["COL","Kolumbia"],BRA:["BRA","Braz\u00edlia"],ARG:["ARG","Argent\u00edna"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["southAmerica","countries",l]);

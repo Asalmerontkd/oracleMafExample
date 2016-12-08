@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Application xmlns="http://xmlns.oracle.com/adfm/application" version="12.2.1.22.33" id="DataBindings"
+             SeparateXMLFiles="false" Package="antonio.mobile" ClientType="Generic">
+  <definitionFactories>
+    <factory nameSpace="http://xmlns.oracle.com/adfm/dvt"
+             className="oracle.adfinternal.view.faces.dvt.model.binding.FacesBindingFactory"/>
+  </definitionFactories>
+  <pageMap>
+    <page path="/empList.amx" usageId="antonio_mobile_empListPageDef"/>
+    <page path="/graph.amx" usageId="antonio_mobile_graphPageDef"/>
+  </pageMap>
+  <pageDefinitionUsages>
+    <page id="antonio_mobile_empListPageDef" path="antonio.mobile.pageDefs.empListPageDef"/>
+    <page id="antonio_mobile_graphPageDef" path="antonio.mobile.pageDefs.graphPageDef"/>
+  </pageDefinitionUsages>
+  <dataControlUsages>
+    <dc id="Emps" path="antonio.mobile.Emps"/>
+  </dataControlUsages>
+</Application>

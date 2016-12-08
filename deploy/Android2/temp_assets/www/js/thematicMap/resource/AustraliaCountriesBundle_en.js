@@ -1,0 +1,1 @@
+l={NZL:["NZL","New Zealand"],AUS:["AUS","Australia"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[1].push(["australia","countries",l]);

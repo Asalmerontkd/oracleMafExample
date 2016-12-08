@@ -1,0 +1,2 @@
+l={GIN_CONAKRY:[null,"Konakry"],TGO_LOME:[null,"Lom\u00e9"],SOM_MOGADISHU:[null,"Mogadi\u0161o"],ZAF_CAPE_TOWN:[null,"Kapsk\u00e9 Mesto"],ZAF_PRETORIA:[null,"Pret\u00f3ria"],DZA_ALGIERS:[null,"Al\u017e\u00edr"],EGY_CAIRO:[null,"K\u00e1hira"],GHA_ACCRA:[null,"Akkra"],CMR_YAOUNDE:[null,"Yaound\u00e9"],SDN_KHARTOUM:[null,"Chart\u00fam"],SDN_KHARTOUM_UMM_DURMAN:[null,"Chart\u00fam"],LBY_TRIPOLI:[null,"Tripolis"],LBY_BANGHAZI:[null,"Beng\u00e1zi"],ETH_ADDIS_ABABA:[null,"Addis Abeba"]};
+(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["africa","cities",l]);

@@ -1,0 +1,1 @@
+l={FLK:["FLK","Ilhas Falkland"],TTO:["TTO","Trindade e Tobago"],PRY:["PRY","Paraguai"],GUF:["GUF","Guiana Francesa"],URY:["URY","Uruguai"],BOL:["BOL","Bol\u00edvia"],COL:["COL","Col\u00f4mbia"],GUY:["GUY","Guiana"],BRA:["BRA","Brasil"],ECU:["ECU","Equador"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["southAmerica","countries",l]);

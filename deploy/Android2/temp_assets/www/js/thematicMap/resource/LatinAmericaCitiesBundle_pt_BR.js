@@ -1,0 +1,2 @@
+l={BRA_BRASILIA:[null,"Bras\u00edlia"],TTO_PORT_OF_SPAIN:[null,"Porto de Espanha"],BRA_SAO_PAULO:[null,"S\u00e3o Paulo"],NIC_MANAGUA:[null,"Man\u00e1gua"],MEX_MONTERREY:[null,"Monterrei"],PRY_ASUNCION:[null,"Assun\u00e7\u00e3o"],MEX_MEXICO_CITY:[null,"Cidade do M\u00e9xico"],HTI_PORT_AU_PRINCE:[null,"Porto Pr\u00edncipe"],URY_MONTEVIDEO:[null,"Montevid\u00e9u"],COL_BOGOTA:[null,"Bogot\u00e1"],CRI_SAN_JOSE:[null,"S\u00e3o Jos\u00e9"]};
+(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["latinAmerica","cities",l]);

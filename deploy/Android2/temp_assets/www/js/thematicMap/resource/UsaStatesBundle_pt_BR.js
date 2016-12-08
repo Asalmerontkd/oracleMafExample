@@ -1,0 +1,1 @@
+l={HI:["HI","Hava\u00ed"],AK:["AK","Alasca"],CA:["CA","Calif\u00f3rnia"],NH:["NH","Nova Hampshire"],NJ:["NJ","Nova Jersey"],NM:["NM","Novo M\u00e9xico"],FL:["FL","Fl\u00f3rida"],NY:["NY","Nova York"],GA:["GA","Ge\u00f3rgia"],PA:["PA","Pensilv\u00e2nia"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["usa","states",l]);

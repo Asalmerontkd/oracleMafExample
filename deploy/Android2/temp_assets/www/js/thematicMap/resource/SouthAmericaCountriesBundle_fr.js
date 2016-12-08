@@ -1,0 +1,1 @@
+l={FLK:["FLK","Iles Malouines"],CHL:["CHL","Chili"],TTO:["TTO","Trinit\u00e9-et-Tobago"],GUF:["GUF","Guyane fran\u00e7aise"],BOL:["BOL","Bolivie"],COL:["COL","Colombie"],BRA:["BRA","Br\u00e9sil"],ECU:["ECU","Equateur"],ARG:["ARG","Argentine"],PER:["PER","P\u00e9rou"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["southAmerica","countries",l]);

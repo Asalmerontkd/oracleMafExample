@@ -1,0 +1,1 @@
+l={USA:["USA","\u00c9tats-Unis"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["usaAndCanada","countries",l]);

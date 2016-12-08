@@ -1,0 +1,1 @@
+l={NY:["NY","Nueva York"],OK:["Ok","Oklahoma"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["usa","states",l]);

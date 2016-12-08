@@ -1,0 +1,1 @@
+l={HI:["HI","Havaiji"],SC:["SC","Etel\u00e4-Carolina"],SD:["SD","Etel\u00e4-Dakota"],CA:["CA","Kalifornia"],NC:["NC","Pohjois-Carolina"],ND:["ND","Pohjois-Dakota"],WV:["WV","L\u00e4nsi-Virginia"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["usa","states",l]);

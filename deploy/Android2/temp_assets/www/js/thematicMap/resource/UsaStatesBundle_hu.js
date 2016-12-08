@@ -1,0 +1,1 @@
+l={AK:["AK","Alaszka"],SC:["SC","D\u00e9l-Carolina"],SD:["SD","D\u00e9l-Dakota"],CA:["CA","Kalifornia"],CO:["CO","Kolor\u00e1d\u00f3"],NC:["NC","\u00c9szak-Carolina"],ND:["ND","\u00c9szak-Dakota"],NM:["NM","\u00daj Mexik\u00f3"],WV:["WV","Nyugat-Virginia"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["usa","states",l]);

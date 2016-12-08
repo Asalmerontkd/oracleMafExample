@@ -1,0 +1,1 @@
+l={CUB_HAVANA:[null,"L'Avana"],BRA_SAO_PAULO:[null,"San Paolo"],MEX_MEXICO_CITY:[null,"Citt\u00e0 del Messico"],COL_BOGOTA:[null,"Bogot\u00e0"],CRI_SAN_JOSE:[null,"San Jos\u00e9"]};(this?this:window).DvtBaseMapManager._UNPROCESSED_MAPS[2].push(["latinAmerica","cities",l]);
