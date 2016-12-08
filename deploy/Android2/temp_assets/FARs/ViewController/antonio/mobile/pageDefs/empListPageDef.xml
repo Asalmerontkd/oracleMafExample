@@ -16,5 +16,25 @@
         </AttrNames>
       </nodeDefinition>
     </tree>
+    <attributeValues IterBinding="empsIterator" id="name">
+      <AttrNames>
+        <Item Value="name"/>
+      </AttrNames>
+    </attributeValues>
+    <attributeValues IterBinding="empsIterator" id="email">
+      <AttrNames>
+        <Item Value="email"/>
+      </AttrNames>
+    </attributeValues>
+    <attributeValues IterBinding="empsIterator" id="salary">
+      <AttrNames>
+        <Item Value="salary"/>
+      </AttrNames>
+    </attributeValues>
+    <attributeValues IterBinding="empsIterator" id="hireDate">
+      <AttrNames>
+        <Item Value="hireDate"/>
+      </AttrNames>
+    </attributeValues>
   </bindings>
 </pageDefinition>

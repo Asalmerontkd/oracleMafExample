@@ -11,14 +11,36 @@
     <amx:facet name="secondary">
       <amx:commandButton id="cb2"/>
     </amx:facet>
-    <amx:listView var="row" value="#{bindings.emps.collectionModel}" fetchSize="#{bindings.emps.rangeSize}"
-                  selectedRowKeys="#{bindings.emps.collectionModel.selectedRow}"
-                  initialScrollRowKeys="#{bindings.emps.collectionModel.selectedRow}"
-                  selectionListener="#{bindings.emps.collectionModel.makeCurrent}" dividerAttribute="name"
-                  dividerMode="firstLetter" showMoreStrategy="autoScroll" bufferStrategy="viewport" id="lv1">
-      <amx:listItem id="li1">
-        <amx:outputText value="#{row.name}" id="ot2"/>
-      </amx:listItem>
-    </amx:listView>
+    <amx:panelSplitter id="ps1">
+      <amx:facet name="navigator">
+        <amx:listView var="row" value="#{bindings.emps.collectionModel}" fetchSize="#{bindings.emps.rangeSize}"
+                      selectedRowKeys="#{bindings.emps.collectionModel.selectedRow}"
+                      initialScrollRowKeys="#{bindings.emps.collectionModel.selectedRow}"
+                      selectionListener="#{bindings.emps.collectionModel.makeCurrent}" dividerAttribute="name"
+                      dividerMode="firstLetter" showMoreStrategy="autoScroll" bufferStrategy="viewport" id="lv1">
+          <amx:listItem id="li1">
+            <amx:outputText value="#{row.name}" id="ot2"/>
+          </amx:listItem>
+        </amx:listView>
+      </amx:facet>
+      <amx:panelItem id="pi1">
+        <amx:panelFormLayout id="pfl1">
+          <amx:panelLabelAndMessage label="#{bindings.name.hints.label}" id="plam4">
+            <amx:outputText value="#{bindings.name.inputValue}" id="ot6"/>
+          </amx:panelLabelAndMessage>
+          <amx:panelLabelAndMessage label="#{bindings.email.hints.label}" id="plam2">
+            <amx:outputText value="#{bindings.email.inputValue}" id="ot4"/>
+          </amx:panelLabelAndMessage>
+          <amx:panelLabelAndMessage label="#{bindings.salary.hints.label}" id="plam3">
+            <amx:outputText value="#{bindings.salary.inputValue}" id="ot5"/>
+          </amx:panelLabelAndMessage>
+          <amx:panelLabelAndMessage label="#{bindings.hireDate.hints.label}" id="plam1">
+            <amx:outputText value="#{bindings.hireDate.inputValue}" id="ot3">
+              <amx:convertDateTime pattern="#{bindings.hireDate.format}" id="cdt1"/>
+            </amx:outputText>
+          </amx:panelLabelAndMessage>
+        </amx:panelFormLayout>
+      </amx:panelItem>
+    </amx:panelSplitter>
   </amx:panelPage>
 </amx:view>
